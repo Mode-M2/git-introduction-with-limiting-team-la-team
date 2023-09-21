@@ -1,5 +1,5 @@
 ---
-title: "Etude sur les manchots"
+title: "Penguin study"
 author: "MP Etienne, des MODE et certains EFCE"
 date: "9/2/2023"
 output: html_document 
