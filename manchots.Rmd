@@ -1,5 +1,6 @@
+---
 title: "Etude sur les manchots"
-author: "MP Etienne et  toute la spé data science"
+author: "MP Etienne, des MODE et certains EFCE"
 date: "9/2/2023"
 output: html_document 
 ---
